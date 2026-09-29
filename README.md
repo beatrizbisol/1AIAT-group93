@@ -1,13 +1,13 @@
 # 1AIAT — Grupo 93
 
-Repositório público do trabalho em grupo de pós-graduação da FIAP (código 1AIAT, grupo 93).
+Repositório público do trabalho em grupo de pós-graduação da FIAP (turma de Agentes de IA 1AIAT, grupo 93).
 
 O grupo faz simulações de cenários com dados abertos somente. Aqui estão os enunciados oficiais de cada fase. Não há dados privados, identificadores de alunos nem resultados de análise neste repositório.
 
 ## Pastas
 
-- `Fase 1/Challenge - Fase 1.pdf`
-- `Fase 2/Challenge - Fase 2.pdf`
+- [Fase 1](./Fase%201/) — `Challenge - Fase 1.pdf`
+- [Fase 2](./Fase%202/) — `Challenge - Fase 2.pdf`
 
 ## Fase 1 — Fundamentos de IA e Agentic AI
 
